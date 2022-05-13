@@ -28,8 +28,17 @@ My name is Yuri Serafim, I'm a full-stack Developer and I'm on my last semester 
 	<img align="center" alt="Bootstrap Badge" height="20" width="60" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 	<img align="center" alt="Badge" height="20" width="70" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 </div>
+<br><br>
+
+<div>
+	<a href="https://github.com/yuridefranca">
+  	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuridefranca&layout=compact&langs_count=16&theme=dracula"/>
+	<img height="180" src="https://github-readme-stats.vercel.app/api?username=yuridefranca&show_icons=true&theme=dracula">
+	
+</div>
 
 ![Snake animation](https://github.com/yuridefranca/yuridefranca/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
